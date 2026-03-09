@@ -15,11 +15,12 @@
 
 ## 🧬 Profile & Vision
 
-[cite_start]I am an **AI Scientist** [cite: 8] dedicated to bridging the gap between complex physical systems and reliable artificial intelligence. [cite_start]Currently, my work at **DNV** focuses on[cite: 14, 15]:
-- [cite_start]**AI Assurance & Safety**: Developing methodologies for critical infrastructure.
-- [cite_start]**Agentic Systems**: Evaluation and design of secure agentic AI[cite: 8, 41].
-- [cite_start]**Regulatory Alignment**: Ensuring AI systems meet the standards of the **EU AI Act**[cite: 9].
-- [cite_start]**Physics-Informed ML**: Combining data-driven models with physical principles for industrial applications[cite: 10, 44].
+[cite_start]I am an **AI Scientist** dedicated to bridging the gap between complex physical systems and reliable artificial intelligence[cite: 8]. [cite_start]Currently, my work at **DNV** focuses on[cite: 14, 15]:
+
+* [cite_start]**AI Assurance & Safety**: Developing methodologies for critical infrastructure[cite: 15].
+* [cite_start]**Agentic Systems**: Evaluation and design of secure agentic AI[cite: 8, 41].
+* [cite_start]**Regulatory Alignment**: Ensuring AI systems meet the standards of the **EU AI Act**[cite: 9].
+* [cite_start]**Physics-Informed ML**: Combining data-driven models with physical principles for industrial applications[cite: 10, 44].
 
 ---
 
@@ -58,9 +59,9 @@
 
 | Degree | Institution | Year |
 | :--- | :--- | :--- |
-| [cite_start]**Ph.D. in Astrophysics**  | [cite_start]University of Oslo  | [cite_start]2018 - 2022  |
-| [cite_start]**M.Sc. in Astronomy**  | [cite_start]Universidad Nacional de Colombia  | [cite_start]2015 - 2017  |
-| [cite_start]**B.Sc. in Physics**  | [cite_start]Universidad Nacional de Colombia  | [cite_start]2009 - 2014  |
+| **Ph.D. in Astrophysics** | University of Oslo | [cite_start]2018 - 2022 [cite: 47] |
+| **M.Sc. in Astronomy** | Universidad Nacional de Colombia | [cite_start]2015 - 2017 [cite: 47] |
+| **B.Sc. in Physics** | Universidad Nacional de Colombia | [cite_start]2009 - 2014 [cite: 47] |
 
 ---
 
@@ -68,7 +69,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/jcguevarag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=YOUR_ID" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?user=G669_pAAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="30" /></a>
 </p>
 
 [cite_start]**Contact**: [juan.camilo.guevara.gomez@dnv.com](mailto:juan.camilo.guevara.gomez@dnv.com) [cite: 4]

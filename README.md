@@ -15,65 +15,59 @@
 
 ## 🧬 Profile & Vision
 
-[cite_start]I am an **AI Scientist** dedicated to bridging the gap between complex physical systems and reliable artificial intelligence[cite: 8]. [cite_start]Currently, my work at **DNV** focuses on[cite: 14, 15]:
+I am an **AI Scientist** dedicated to bridging the gap between complex physical systems and reliable artificial intelligence. Currently, my work at **DNV** focuses on:
 
-* [cite_start]**AI Assurance & Safety**: Developing methodologies for critical infrastructure[cite: 15].
-* [cite_start]**Agentic Systems**: Evaluation and design of secure agentic AI[cite: 8, 41].
-* [cite_start]**Regulatory Alignment**: Ensuring AI systems meet the standards of the **EU AI Act**[cite: 9].
-* [cite_start]**Physics-Informed ML**: Combining data-driven models with physical principles for industrial applications[cite: 10, 44].
+* **AI Assurance & Safety**: Developing methodologies for critical infrastructure.
+* **Agentic Systems**: Evaluation and design of secure agentic AI.
+* **Regulatory Alignment**: Ensuring AI systems meet the standards of the **EU AI Act**.
+* **Physics-Informed ML**: Combining data-driven models with physical principles for industrial applications.
 
 ---
 
 ## 🛠 Tech Stack & Expertise
 
 ### AI Safety & Machine Learning
-![AI Safety](https://img.shields.io/badge/AI_Safety-Critical-red)
-![AI Assurance](https://img.shields.io/badge/AI_Assurance-Certified-blue)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-Evaluation-orange)
-![LLMs](https://img.shields.io/badge/LLMs-GPT--4_|_OpenSource-purple)
-![Physics Informed](https://img.shields.io/badge/Physics--Informed_ML-Expert-green)
+- **AI Safety & Assurance**
+- **Agentic AI Evaluation**
+- **Large Language Models (LLMs)**
+- **Physics-Informed Machine Learning**
 
 ### Programming & Scientific Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- **Python** (Scikit-Learn, PyTorch, Pandas)
+- **Scientific Computing** (Jupyter, Linux, Git)
 
 ---
 
 ## 🔬 Professional Experience
 
-* **AI Researcher | [cite_start]DNV, Norway** (Feb 2023 - Present) [cite: 12, 13, 14]
-    * Focus on AI assurance, safety, and cyber risk in critical infrastructure[cite: 15].
-* **Doctoral Research Fellow | [cite_start]University of Oslo** (2018 - 2023) [cite: 20, 21, 22]
-    * [cite_start]Investigated solar phenomena using ALMA data and physics-informed modeling[cite: 23].
-* **Visiting Research Scholar | [cite_start]UC Berkeley, USA** (2018) [cite: 25, 27]
-    * Contributed to the Eclipse Megamovie project and CubeSat mission design[cite: 28].
-* **Data Scientist | [cite_start]MOCA Platform** (2016 - 2017) [cite: 29, 30]
-    * [cite_start]Geolocational data analysis and marketing insights[cite: 32].
+* **AI Researcher | DNV, Norway** (Feb 2023 - Present)
+    * Focus on AI assurance, safety, and cyber risk in critical infrastructure.
+* **Doctoral Research Fellow | University of Oslo** (2018 - 2023)
+    * Investigated solar phenomena using ALMA data and physics-informed modeling.
+* **Visiting Research Scholar | UC Berkeley, USA** (2018)
+    * Contributed to the Eclipse Megamovie project and designed CubeSat missions.
 
 ---
 
-## 🎓 Education & Academic Background
+## 🎓 Education
 
 | Degree | Institution | Year |
 | :--- | :--- | :--- |
-| **Ph.D. in Astrophysics** | University of Oslo | [cite_start]2018 - 2022 [cite: 47] |
-| **M.Sc. in Astronomy** | Universidad Nacional de Colombia | [cite_start]2015 - 2017 [cite: 47] |
-| **B.Sc. in Physics** | Universidad Nacional de Colombia | [cite_start]2009 - 2014 [cite: 47] |
+| **Ph.D. in Astrophysics** | University of Oslo | 2018 - 2022 |
+| **M.Sc. in Astronomy** | Universidad Nacional de Colombia | 2015 - 2017 |
+| **B.Sc. in Physics** | Universidad Nacional de Colombia | 2009 - 2014 |
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/jcguevarag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=G669_pAAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jcguevarag" target="blank">LinkedIn</a> | 
+<a href="https://scholar.google.com/citations?user=G669_pAAAAAJ" target="blank">Google Scholar</a>
 </p>
 
-[cite_start]**Contact**: [juan.camilo.guevara.gomez@dnv.com](mailto:juan.camilo.guevara.gomez@dnv.com) [cite: 4]
-[cite_start]**Location**: Oslo, Norway 🇳🇴 [cite: 2]
+**Contact**: juan.camilo.guevara.gomez@dnv.com  
+**Location**: Oslo, Norway 🇳🇴
 
 ---
 <p align="center">
